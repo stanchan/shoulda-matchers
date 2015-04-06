@@ -156,7 +156,6 @@ Shoulda::Matchers.configure do |config|
     # Choose a test framework:
     with.test_framework :rspec
     with.test_framework :minitest
-    with.test_framework :minitest_4
     with.test_framework :test_unit
 
     # Choose a library:

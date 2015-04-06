@@ -2,6 +2,9 @@
 
 ### Backward-incompatible changes
 
+* Out with the old, in with the new: we've dropped support for Rails 3.x, Ruby
+  1.9.2, Ruby 1.9.3, RSpec 2.x, and MiniTest 4.
+
 * The negative form of `allow_value` has been changed so that instead of
   asserting that any of the given values is an invalid value (allowing good
   values to pass through), assert that *all* values are invalid values (allowing
