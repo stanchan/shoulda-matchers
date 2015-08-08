@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/pry/pry.git
+  remote: git://github.com/stanchan/pry.git
   revision: f0cbec507111743fdbc273735ea4f0f6164a5b21
   specs:
     pry (0.10.1)
@@ -8,7 +8,7 @@ GIT
       slop (~> 3.4)
 
 GEM
-  remote: https://rubygems.org/
+  remote: https://nexus.chanfx.com/nexus/content/repositories/rubygems/
   specs:
     appraisal (1.0.2)
       bundler

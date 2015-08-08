@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source 'https://nexus.chanfx.com/nexus/content/repositories/rubygems'
 
 gem 'appraisal', '~> 1.0'
 gem 'bundler', '~> 1.1'
